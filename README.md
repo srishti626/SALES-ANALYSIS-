@@ -3,6 +3,7 @@
 # Purpose: 
 
 Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
+
 # Description: 
 
 In this project, you will dive into a large sales dataset to extract valuable insights. 
@@ -12,18 +13,18 @@ This project showcases your ability to manipulate and derive insights from large
 # Tasks to perform: 
 
 # Data Cleaning:
-Make the first row a Header.
-Split Date/Time into 2 columns as Date and Time
-Renaming Data
-Adding New Column as MonthName
+- Make the first row a Header.
+- Split Date/Time into 2 columns as Date and Time
+- Renaming Data
+- Adding New Column as MonthName
 # Data Visualization:
-Making New Measures to make Kpis for 
-Revenue=sum(total_sales)
-SalesQty=count(qunatity_ordered)
-ProfitMargin=Revenue-SalesQty/Revenue*100
-Dropdown Slicers for Products and City
-Total Sales by Month
-Weekly Sales
-Top 5 Products By Sales Count
-Top 5 Selling Products
-Top 5 Cities By Sales
+- Making New Measures to make Kpis for 
+- Revenue=sum(total_sales)
+- SalesQty=count(qunatity_ordered)
+- ProfitMargin=Revenue-SalesQty/Revenue*100
+- Dropdown Slicers for Products and City
+- Total Sales by Month
+- Weekly Sales
+- Top 5 Products By Sales Count
+- Top 5 Selling Products
+- Top 5 Cities By Sales
