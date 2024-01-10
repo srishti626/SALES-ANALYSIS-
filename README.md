@@ -12,7 +12,7 @@ This project showcases your ability to manipulate and derive insights from large
 # Tasks to perform: 
 
 # Data Cleaning:
-Make first row as Header.
+Make the first row a Header.
 Split Date/Time into 2 columns as Date and Time
 Renaming Data
 Adding New Column as MonthName
